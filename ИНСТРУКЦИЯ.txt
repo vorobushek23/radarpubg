@@ -1,0 +1,5 @@
+Для работы скачивайте: 
+winpcap / https://www.winpcap.org/install/default.htm 
+java / https://java.com/ru/download/ 
+https://yadi.sk/d/I4xR_BCu3Sf3ix
+Запустите от имени администратора, у вас появится окно с кодом, данный код отправьте нам в группу.
